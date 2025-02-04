@@ -1,0 +1,21 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "Exercícios de algorítimos e lógica.",
+  "keywords": [
+    "logic",
+    "challenge",
+    "data"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "leetcode"
+  },
+  "license": "ISC",
+  "author": "AlexMagalhaes",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
